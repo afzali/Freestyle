@@ -24,7 +24,7 @@ Start by creating a new SvelteKit project if you don't have one set up already. 
     npm install
 
 ### 3- Install Freestyle
-Install the core Skeleton package from  [NPM](https://www.npmjs.com/package/@afzali/freestyle).
+Install the core Freestyle package from  [NPM](https://www.npmjs.com/package/@afzali/freestyle).
 
     npm i @afzali/freestyle--save-dev
 
